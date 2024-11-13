@@ -1,0 +1,173 @@
+
+
+
+.logoImg{
+    width: 120px;
+}
+
+.navItem{
+  padding-right: 20px;
+
+}
+
+.navItem a{
+    font-weight: 400;
+    color: black;
+}
+
+.signBTN{
+ background: #4CAF4F;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px ;
+    border: none;
+}
+.loginBtn{
+    color: #4CAF4F;
+    background-color:#F5F7FA;
+    padding: 5px 15px;
+    border-radius: 5px ;
+    border: none;
+    margin-right: 5px;
+}
+.hero{
+    width: 100%;
+}
+
+.carsol{
+    background: #F5F7FA;
+    height: 599px;
+padding: 96px 144px 96px 144px;
+
+    
+}
+.lessonCarsol{
+    align-self: center;
+}
+.lesonHead1{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(91, 90, 90);
+    padding: 0;
+    margin: 0;
+}
+.lesonHead2{
+    color: #4CAF4F;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 0px;
+    margin: 0px;
+} 
+.lesonHead3{
+    color: grey;
+    font-size: small;
+}
+.regButton{
+    border: none;
+  
+border-radius: 2px;
+background: #4CAF4F;
+padding: 10px 15px;
+color: white;
+margin-top: 20px;
+
+}
+
+/* client */
+.client{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.contain2{
+    display: flex;
+    justify-content: center;
+    color: #4D4D4D;
+
+}
+
+.dflex{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    margin: 0;
+    padding: 0;
+}
+.cardMang{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.card1{
+    width: 300px;
+    box-shadow: 0px 2px 4px 0px #ABBED133;
+
+}
+.imgCard{
+ display: flex;
+ justify-content: center;
+}
+
+.cardHead{
+    font-size: 30px;
+    text-align: center;
+    color: #4D4D4D;
+    ;
+
+}
+.cardPara{
+    font-size: small;
+    color: #717171;
+    text-align: center;
+
+}
+
+.contentUnseen{
+    width: 600px;
+}
+
+.useenCenter{
+    align-items: center;
+}
+
+.useen{
+    height: 599px;
+padding: 96px 144px 96px 144px;
+margin-top: 8px;
+
+    
+}
+
+.propty{
+    width: Fixed (1,440px)px;
+height: Hug (288px)px;
+padding: 64px 144px 64px 144px;
+gap: 0px;
+background: #F5F7FA;
+
+
+}
+
+.propHead1{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(91, 90, 90);
+    padding: 0;
+    margin: 0;
+}
+
+.propHead2{
+    color: #4CAF4F;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 0px;
+    margin: 0px;
+} 
+
+.propHead3{
+    color: black;
+    font-size: small;
+}
